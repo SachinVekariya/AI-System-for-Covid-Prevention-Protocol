@@ -1,0 +1,60 @@
+body{
+    background-color:azure;
+}
+
+.navbar-brand{
+    margin-left:2%;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.nav-item{
+    margin-left:9%;
+    font-size:1.3rem;
+}
+
+.vertical-center {
+    min-height: 92vh;
+    display: flex;
+    align-items: center;
+}
+
+
+.images1{
+    width: 500px;
+    height: 500px;
+    margin-top: 2%;
+    display:inline-block;
+    border:1px solid black;
+    background-size: cover;
+    line-height: 500px;
+    text-align: center;
+}
+
+.images2{
+    width: 512px;
+    height: 384px;
+    margin-top: 2%;
+    display:inline-block;
+    border:1px solid black;
+    background-size: cover;
+    line-height: 384px;
+    text-align: center;
+}
+
+.images3{
+    width: 480px;
+    height: 360px;
+    margin-top: 2%;
+    display:inline-block;
+    border:1px solid black;
+    background-size: cover;
+    line-height: 360px;
+    text-align: center;
+}
+
+  
+.form-switch.form-switch-lg .form-check-input {
+    margin-left: -8.5em;
+    height: 2em;
+    width: 4em;
+}

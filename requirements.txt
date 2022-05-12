@@ -1,0 +1,9 @@
+Django==4.0.3
+djangorestframework==3.13.1
+numpy==1.22.1
+opencv-python==4.5.4.58
+mtcnn-opencv==1.0.2
+matplotlib==3.5.1
+tensorflow==2.5.0
+Pilow==9.1.0
+requests==2.27.1

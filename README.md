@@ -1,1 +1,1 @@
-# AI-System-for-Covid-Prevention-Protocol-
+# AI-System-for-Covid-Prevention-Protocol
